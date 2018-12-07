@@ -1,0 +1,6 @@
+轮播图 
+    width: 2160px
+    position: absolute;
+    opacity  0 - 1
+    z-index  0 - 50
+    display:none  --> block;
